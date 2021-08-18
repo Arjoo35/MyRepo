@@ -1,0 +1,16 @@
+F:\.Net_Batch\module1\C#\HandsOn\HandsOnDay2\bin\Debug\net5.0\HandsOnDay2.exe
+F:\.Net_Batch\module1\C#\HandsOn\HandsOnDay2\bin\Debug\net5.0\HandsOnDay2.deps.json
+F:\.Net_Batch\module1\C#\HandsOn\HandsOnDay2\bin\Debug\net5.0\HandsOnDay2.runtimeconfig.json
+F:\.Net_Batch\module1\C#\HandsOn\HandsOnDay2\bin\Debug\net5.0\HandsOnDay2.runtimeconfig.dev.json
+F:\.Net_Batch\module1\C#\HandsOn\HandsOnDay2\bin\Debug\net5.0\HandsOnDay2.dll
+F:\.Net_Batch\module1\C#\HandsOn\HandsOnDay2\bin\Debug\net5.0\ref\HandsOnDay2.dll
+F:\.Net_Batch\module1\C#\HandsOn\HandsOnDay2\bin\Debug\net5.0\HandsOnDay2.pdb
+F:\.Net_Batch\module1\C#\HandsOn\HandsOnDay2\obj\Debug\net5.0\HandsOnDay2.csproj.AssemblyReference.cache
+F:\.Net_Batch\module1\C#\HandsOn\HandsOnDay2\obj\Debug\net5.0\HandsOnDay2.GeneratedMSBuildEditorConfig.editorconfig
+F:\.Net_Batch\module1\C#\HandsOn\HandsOnDay2\obj\Debug\net5.0\HandsOnDay2.AssemblyInfoInputs.cache
+F:\.Net_Batch\module1\C#\HandsOn\HandsOnDay2\obj\Debug\net5.0\HandsOnDay2.AssemblyInfo.cs
+F:\.Net_Batch\module1\C#\HandsOn\HandsOnDay2\obj\Debug\net5.0\HandsOnDay2.csproj.CoreCompileInputs.cache
+F:\.Net_Batch\module1\C#\HandsOn\HandsOnDay2\obj\Debug\net5.0\HandsOnDay2.dll
+F:\.Net_Batch\module1\C#\HandsOn\HandsOnDay2\obj\Debug\net5.0\ref\HandsOnDay2.dll
+F:\.Net_Batch\module1\C#\HandsOn\HandsOnDay2\obj\Debug\net5.0\HandsOnDay2.pdb
+F:\.Net_Batch\module1\C#\HandsOn\HandsOnDay2\obj\Debug\net5.0\HandsOnDay2.genruntimeconfig.cache
